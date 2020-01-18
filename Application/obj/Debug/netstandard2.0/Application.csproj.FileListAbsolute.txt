@@ -1,0 +1,14 @@
+E:\ASP_NET_React_Project\Reactivities\Application\bin\Debug\netstandard2.0\Application.deps.json
+E:\ASP_NET_React_Project\Reactivities\Application\bin\Debug\netstandard2.0\Application.dll
+E:\ASP_NET_React_Project\Reactivities\Application\bin\Debug\netstandard2.0\Application.pdb
+E:\ASP_NET_React_Project\Reactivities\Application\bin\Debug\netstandard2.0\Domain.dll
+E:\ASP_NET_React_Project\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.dll
+E:\ASP_NET_React_Project\Reactivities\Application\bin\Debug\netstandard2.0\Domain.pdb
+E:\ASP_NET_React_Project\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.pdb
+E:\ASP_NET_React_Project\Reactivities\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+E:\ASP_NET_React_Project\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+E:\ASP_NET_React_Project\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+E:\ASP_NET_React_Project\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+E:\ASP_NET_React_Project\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+E:\ASP_NET_React_Project\Reactivities\Application\obj\Debug\netstandard2.0\Application.dll
+E:\ASP_NET_React_Project\Reactivities\Application\obj\Debug\netstandard2.0\Application.pdb
